@@ -1,0 +1,9 @@
+{
+	"C_Cpp.clang_format_style": "Google",
+	"[cpp]": {
+		"editor.wordBasedSuggestions": false,
+		"editor.suggest.insertMode": "replace",
+		"editor.semanticHighlighting.enabled": true,
+		"editor.tabSize": 2
+	}
+}
